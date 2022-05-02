@@ -1,0 +1,35 @@
+C:\Dokumente und Einstellungen\Rolf Kück\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Datumsdifferenz\bin\Debug\Datumsdifferenz.exe
+C:\Dokumente und Einstellungen\Rolf Kück\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Datumsdifferenz\bin\Debug\Datumsdifferenz.pdb
+C:\Dokumente und Einstellungen\Rolf Kück\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Datumsdifferenz\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Rolf Kück\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.Form1.resources
+C:\Dokumente und Einstellungen\Rolf Kück\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Rolf Kück\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Datumsdifferenz\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\Rolf Kück\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Datumsdifferenz\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\Rolf Kück\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.exe
+C:\Dokumente und Einstellungen\Rolf Kück\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.pdb
+F:\Schule\C#\Datumsdifferenz\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.exe
+F:\Schule\C#\Datumsdifferenz\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.pdb
+F:\Schule\C#\Datumsdifferenz\Datumsdifferenz\bin\Debug\Datumsdifferenz.exe
+F:\Schule\C#\Datumsdifferenz\Datumsdifferenz\bin\Debug\Datumsdifferenz.pdb
+F:\Schule\C#\Datumsdifferenz\Datumsdifferenz\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Schule\C#\Datumsdifferenz\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.Form1.resources
+F:\Schule\C#\Datumsdifferenz\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.Properties.Resources.resources
+F:\Schule\C#\Datumsdifferenz\Datumsdifferenz\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Schule\C#\Datumsdifferenz\Datumsdifferenz\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\### SCHULE ###  (Sicherheitskopie - Stand April 2010)\C#\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.exe
+E:\### SCHULE ###  (Sicherheitskopie - Stand April 2010)\C#\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.pdb
+E:\### SCHULE ###  (Sicherheitskopie - Stand April 2010)\C#\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\bin\Debug\Datumsdifferenz.exe
+E:\### SCHULE ###  (Sicherheitskopie - Stand April 2010)\C#\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\bin\Debug\Datumsdifferenz.pdb
+E:\### SCHULE ###  (Sicherheitskopie - Stand April 2010)\C#\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\### SCHULE ###  (Sicherheitskopie - Stand April 2010)\C#\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.Form1.resources
+E:\### SCHULE ###  (Sicherheitskopie - Stand April 2010)\C#\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.Properties.Resources.resources
+E:\### SCHULE ###  (Sicherheitskopie - Stand April 2010)\C#\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\### SCHULE ###  (Sicherheitskopie - Stand April 2010)\C#\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\# SCHULE #\Visual Basic NET\Projekte\Alarmanlage (Info-Ordner)\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.exe
+E:\# SCHULE #\Visual Basic NET\Projekte\Alarmanlage (Info-Ordner)\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.pdb
+E:\# SCHULE #\Visual Basic NET\Projekte\Alarmanlage (Info-Ordner)\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\bin\Debug\Datumsdifferenz.exe
+E:\# SCHULE #\Visual Basic NET\Projekte\Alarmanlage (Info-Ordner)\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\bin\Debug\Datumsdifferenz.pdb
+E:\# SCHULE #\Visual Basic NET\Projekte\Alarmanlage (Info-Ordner)\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.csprojResolveAssemblyReference.cache
+E:\# SCHULE #\Visual Basic NET\Projekte\Alarmanlage (Info-Ordner)\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.Form1.resources
+E:\# SCHULE #\Visual Basic NET\Projekte\Alarmanlage (Info-Ordner)\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.Properties.Resources.resources
+E:\# SCHULE #\Visual Basic NET\Projekte\Alarmanlage (Info-Ordner)\C# - Rechnen mit Datumswerten (Datumsdifferenz von Heute bis Weihnachten)\Datumsdifferenz\obj\x86\Debug\Datumsdifferenz.csproj.GenerateResource.Cache
