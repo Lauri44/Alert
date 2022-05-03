@@ -13,5 +13,22 @@ namespace alert
     /// </summary>
     public partial class App : Application
     {
+        static private List<int> signalList = new List<int>();
+
+        static public void signalCheck()
+        {
+            for(int signal = 1; signal <= 4; signal++)
+            {
+                if (api.ReadDigitalChannel(signal) && !signalList.Contains(signal))
+                {
+                    signalList.Add(signal);
+                }
+                else if(!api.ReadDigitalChannel(signal) && signalList.Contains(signal))
+                {
+                    signalList.Remove(signal);
+                }
+                Console.WriteLine("Hello");
+            }
+        }
     }
 }

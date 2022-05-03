@@ -5,10 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:alert"
         mc:Ignorable="d"
-        Title="SecuritySystem" Height="479" Width="816" MinHeight="479" MinWidth="816" Background="#1a1919" BorderThickness="1" BorderBrush="MediumPurple" ResizeMode="CanResizeWithGrip" SizeToContent="Manual" WindowStartupLocation="CenterScreen">
+        Title="SecuritySystem" Height="479" Width="816" Background="#1a1919" BorderThickness="1" BorderBrush="MediumPurple" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid>
         <Image HorizontalAlignment="Right" Height="auto" Margin="400,0,0,0" VerticalAlignment="Center" Width="auto" Source="/Übersichtsplan.bmp" Stretch="Uniform"/>
-        <Border BorderBrush="#403f3e" BorderThickness="1" HorizontalAlignment="Left" Height="396" Margin="400,0,0,0" VerticalAlignment="Center" Width="auto"/>
-        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Height="112" Margin="81,191,0,0" VerticalAlignment="Top" Width="164" Click="Button_Click"/>
+        <Border BorderBrush="#403f3e" BorderThickness="1" HorizontalAlignment="Left" Height="396" Margin="400,0,0,0" VerticalAlignment="Center" Width="auto" Padding="0,0,0,0"/>
+
+        <Grid Background="#403f3e" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="120" Height="461">
+            <Button x:Name="btnOnOff" Content="OFF" Background="Red" Foreground="White" BorderThickness="0" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,90" Width="120" Height="30" Click="btnOnOff_Click"/>
+            <Button x:Name="btn1" Content="E-Mail" Background="DimGray" Foreground="White" BorderThickness="0" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,60" Width="120" Height="30"/>
+            <Button x:Name="btn" Content="Settings" Background="DimGray" Foreground="White" BorderThickness="0" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,30" Width="120" Height="30"/>
+            <Button x:Name="btnExit" Content="Exit" Background="DimGray" Foreground="White" BorderThickness="0" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,0" Click="btnExit_Click" Width="120" Height="30"/>
+        </Grid>
+
     </Grid>
 </Window>

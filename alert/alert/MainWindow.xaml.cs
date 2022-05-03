@@ -21,15 +21,33 @@ namespace alert
     /// </summary>
     public partial class MainWindow : Window
     {
-        Brush t;
+        utils.Timer signalCheckTimer = new utils.Timer();
         public MainWindow()
         {
             InitializeComponent();
+
+            
         }
-        
-        private void Button_Click(object sender, RoutedEventArgs e)
+
+        private void btnExit_Click(object sender, RoutedEventArgs e)
         {
-            //
+            this.Close();
+        }
+
+        private void btnOnOff_Click(object sender, RoutedEventArgs e)
+        {
+            if (signalCheckTimer.isRunning())
+            {
+                signalCheckTimer.stop();
+                btnOnOff.Content = "OFF";
+                btnOnOff.Background = Brushes.Red;
+            }
+            else
+            {
+                signalCheckTimer.start(() => App.signalCheck());
+                btnOnOff.Content = "ON";
+                btnOnOff.Background = Brushes.Green;
+            }
         }
     }
 }
