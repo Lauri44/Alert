@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,7 +7,7 @@ using System.Runtime.InteropServices;
 
 namespace alert
 {
-    public sealed class api
+    class api
     {
         [DllImport("k8055d.dll")]
         public static extern int OpenDevice(int devNumber);

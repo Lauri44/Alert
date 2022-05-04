@@ -27,7 +27,6 @@ namespace alert
                 {
                     signalList.Remove(signal);
                 }
-                Console.WriteLine("Hello");
             }
         }
     }
