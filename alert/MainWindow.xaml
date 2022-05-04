@@ -1,0 +1,118 @@
+﻿<Window x:Class="alert.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:alert"
+        mc:Ignorable="d"
+        Title="SecuritySystem" Height="479" Width="816" Background="#1a1919" BorderThickness="1" BorderBrush="MediumPurple" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+
+
+    <Grid>
+        <Image HorizontalAlignment="Right" Height="auto" Margin="400,0,0,0" VerticalAlignment="Center" Width="auto"  Source="/Übersichtsplan.bmp" Stretch="Uniform"/>
+        <Border BorderBrush="#403f3e" BorderThickness="1" HorizontalAlignment="Left" Height="396" Margin="400,0,0,0" VerticalAlignment="Center" Width="auto" Padding="0,0,0,0"/>
+
+        <Grid Background="#403f3e" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="120" Height="461">
+            <Button x:Name="btnOnOff" Content="OFF" Background="Red" Foreground="White" BorderThickness="0" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,90" Width="120" Height="30" Click="btnOnOff_Click"/>
+            <Button x:Name="btnMail" Content="E-Mail" Background="DimGray" Foreground="White" BorderThickness="0" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,60" Width="120" Height="30"/>
+            <Button x:Name="btnSettings" Content="Settings" Background="DimGray" Foreground="White" BorderThickness="0" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,30" Width="120" Height="30"/>
+            <Button x:Name="btnExit" Content="Exit" Background="DimGray" Foreground="White" BorderThickness="0" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="0,0,0,0" Click="btnExit_Click" Width="120" Height="30"/>
+        </Grid>
+
+        <!--#region Lageplan-->
+        <Border BorderBrush="DimGray" BorderThickness="1" Margin="423,9,43,20"/>
+        <Grid VerticalAlignment="Top" HorizontalAlignment="Left" Width="217" Height="300" Margin="483,75,0,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="103*"/>
+                <RowDefinition Height="197*"/>
+            </Grid.RowDefinitions>
+            <Border BorderBrush="DimGray" BorderThickness="1" Margin="-2,-2,0,1" Grid.RowSpan="2"/>
+            <Border BorderBrush="DimGray" BorderThickness="1" Margin="-2,93,0,1" Grid.Row="1"/>
+            <Border BorderBrush="DimGray" BorderThickness="1" Margin="-2,-2,110,103" Grid.RowSpan="2"/>
+            <Border BorderBrush="DimGray" BorderThickness="1" Margin="106,-2,0,103" Grid.RowSpan="2"/>
+
+            <Grid Margin="133,145,25,-6" Grid.Row="1">
+                <Border BorderBrush="DimGray" BorderThickness="1" HorizontalAlignment="Left" Height="77" Margin="26,-15,0,0" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5">
+                    <Border.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="52.38"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Border.RenderTransform>
+                </Border>
+                <Border BorderBrush="DimGray" BorderThickness="1" HorizontalAlignment="Left" Height="44" Margin="57,-1,0,0" VerticalAlignment="Top" Width="1"/>
+                <Border BorderBrush="DimGray" BorderThickness="1" Margin="-1,44,1,1" RenderTransformOrigin="0.5,0.5"/>
+            </Grid>
+
+            <Grid Margin="127,43,31,96" Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="11*"/>
+                    <RowDefinition Height="18*"/>
+                </Grid.RowDefinitions>
+                <Border BorderBrush="DimGray" BorderThickness="1" HorizontalAlignment="Center" Height="77" Margin="0,-17,0,0" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5" Grid.RowSpan="2">
+                    <Border.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-52.559"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Border.RenderTransform>
+                </Border>
+                <Border BorderBrush="DimGray" BorderThickness="1" Height="44" VerticalAlignment="Top" Margin="-1,0,59,0" Grid.RowSpan="2"/>
+                <Border BorderBrush="DimGray" BorderThickness="1" Margin="-1,22,1,1" RenderTransformOrigin="0.5,0.5" Grid.Row="1"/>
+            </Grid>
+
+            <Grid Margin="-10,76,168,166" RenderTransformOrigin="0.5,0.5" Grid.RowSpan="2">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="23*"/>
+                    <RowDefinition Height="35*"/>
+                </Grid.RowDefinitions>
+                <Grid.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="89.983"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Grid.RenderTransform>
+                <Border BorderBrush="DimGray" BorderThickness="1" HorizontalAlignment="Left" Height="75" Margin="27,-16,0,0" VerticalAlignment="Top" Width="1" RenderTransformOrigin="0.5,0.5" Grid.RowSpan="2">
+                    <Border.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="128.457"/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Border.RenderTransform>
+                </Border>
+                <Border BorderBrush="DimGray" BorderThickness="1" HorizontalAlignment="Left" Height="44" VerticalAlignment="Top" Width="1" Grid.RowSpan="2" Margin="-1,-1,0,0"/>
+                <Border BorderBrush="DimGray" BorderThickness="1" Margin="-1,20,2,2" RenderTransformOrigin="0.5,0.5" Grid.Row="1"/>
+            </Grid>
+
+        </Grid>
+
+        <Grid Margin="692,102,107,282">
+            <Border BorderBrush="DimGray" BorderThickness="1" Margin="0,-1,1,1"/>
+            <Border BorderBrush="DimGray" BorderThickness="1" Margin="-1,12,13,20"/>
+        </Grid>
+
+        <Grid Margin="544,335,255,49" RenderTransformOrigin="0.5,0.5">
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <Border BorderBrush="DimGray" BorderThickness="1" Margin="0,-1,1,1"/>
+            <Border BorderBrush="DimGray" BorderThickness="1" Margin="-1,19,13,12"/>
+        </Grid>
+        <Label Content="BruchM(4)" Foreground="White" HorizontalAlignment="Left" Margin="522,343,0,0" VerticalAlignment="Top" Width="65"/>
+        <Label Content="BruchM(3)" Foreground="White" HorizontalAlignment="Left" Margin="631,115,0,0" VerticalAlignment="Top" Width="65" Height="27"/>
+        <!--#endregion-->
+    </Grid>
+</Window>

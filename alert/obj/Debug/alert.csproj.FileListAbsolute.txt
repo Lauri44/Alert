@@ -1,0 +1,17 @@
+C:\Users\Lauri\Desktop\test\alert\bin\Debug\alert.exe.config
+C:\Users\Lauri\Desktop\test\alert\bin\Debug\alert.exe
+C:\Users\Lauri\Desktop\test\alert\bin\Debug\alert.pdb
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\alert.csproj.AssemblyReference.cache
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\alert.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\MainWindow.g.cs
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\App.g.cs
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\alert_Content.g.cs
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\alert_MarkupCompile.cache
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\alert_MarkupCompile.lref
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\MainWindow.baml
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\alert.g.resources
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\alert.Properties.Resources.resources
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\alert.csproj.GenerateResource.cache
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\alert.csproj.CoreCompileInputs.cache
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\alert.exe
+C:\Users\Lauri\Desktop\test\alert\obj\Debug\alert.pdb
