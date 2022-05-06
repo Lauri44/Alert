@@ -97,10 +97,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="K8055D.dll" />
-    <Resource Include="Übersichtsplan.bmp" />
+    <Resource Include="recources\Übersichtsplan.bmp" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="recources\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

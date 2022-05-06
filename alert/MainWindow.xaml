@@ -9,7 +9,7 @@
 
 
     <Grid>
-        <Image HorizontalAlignment="Right" Height="auto" Margin="400,0,0,0" VerticalAlignment="Center" Width="auto"  Source="/Übersichtsplan.bmp" Stretch="Uniform"/>
+        <Image HorizontalAlignment="Right" Height="auto" Margin="400,0,0,0" VerticalAlignment="Center" Width="auto"  Source="/recources/Übersichtsplan.bmp" Stretch="Uniform"/>
         <Border BorderBrush="#403f3e" BorderThickness="1" HorizontalAlignment="Left" Height="396" Margin="400,0,0,0" VerticalAlignment="Center" Width="auto" Padding="0,0,0,0"/>
 
         <Grid Background="#403f3e" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="120" Height="461">
@@ -26,8 +26,8 @@
                 <RowDefinition Height="103*"/>
                 <RowDefinition Height="197*"/>
             </Grid.RowDefinitions>
-            <Border BorderBrush="DimGray" BorderThickness="1" Margin="-2,-2,0,1" Grid.RowSpan="2"/>
-            <Border BorderBrush="DimGray" BorderThickness="1" Margin="-2,93,0,1" Grid.Row="1"/>
+            <Border BorderBrush="DimGray" BorderThickness="1" Margin="78,33,-80,-34" Grid.RowSpan="2"/>
+            <Border BorderBrush="DimGray" BorderThickness="1" Margin="-7,79,5,14" Grid.Row="1"/>
             <Border BorderBrush="DimGray" BorderThickness="1" Margin="-2,-2,110,103" Grid.RowSpan="2"/>
             <Border BorderBrush="DimGray" BorderThickness="1" Margin="106,-2,0,103" Grid.RowSpan="2"/>
 
@@ -95,7 +95,7 @@
         </Grid>
 
         <Grid Margin="692,102,107,282">
-            <Border BorderBrush="DimGray" BorderThickness="1" Margin="0,-1,1,1"/>
+            <Border BorderBrush="DimGray" BorderThickness="1" Margin="4,0,-3,0"/>
             <Border BorderBrush="DimGray" BorderThickness="1" Margin="-1,12,13,20"/>
         </Grid>
 
@@ -108,11 +108,12 @@
                     <TranslateTransform/>
                 </TransformGroup>
             </Grid.RenderTransform>
-            <Border BorderBrush="DimGray" BorderThickness="1" Margin="0,-1,1,1"/>
+            <Border BorderBrush="DimGray" BorderThickness="1" Margin="7,0,-6,0"/>
             <Border BorderBrush="DimGray" BorderThickness="1" Margin="-1,19,13,12"/>
         </Grid>
-        <Label Content="BruchM(4)" Foreground="White" HorizontalAlignment="Left" Margin="522,343,0,0" VerticalAlignment="Top" Width="65"/>
-        <Label Content="BruchM(3)" Foreground="White" HorizontalAlignment="Left" Margin="631,115,0,0" VerticalAlignment="Top" Width="65" Height="27"/>
+        
+        <Label Content="BruchM(4)" Foreground="White" HorizontalAlignment="Left" Margin="516,349,0,0" VerticalAlignment="Top" Width="65"/>
+        <Label Content="BruchM(3)" Foreground="White" HorizontalAlignment="Left" Margin="636,115,0,0" VerticalAlignment="Top" Width="65" Height="27"/>
         <!--#endregion-->
     </Grid>
 </Window>
