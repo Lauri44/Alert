@@ -1,3 +1,0 @@
-Dies ist die erste Zeile
-Dies ist die zweite Zeile
-Dies ist die dritte Zeile
