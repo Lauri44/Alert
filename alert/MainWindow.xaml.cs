@@ -21,7 +21,8 @@ namespace alert
     /// </summary>
     public partial class MainWindow : Window
     {
-        utils.Timer signalCheckTimer = new utils.Timer();
+        utils.Timer signalCheckTimer = new utils.Timer(()=>App.signalCheck());
+
         public MainWindow()
         {
             InitializeComponent();
@@ -42,7 +43,7 @@ namespace alert
             }
             else
             {
-                signalCheckTimer.start(() => App.signalCheck());
+                signalCheckTimer.start();
                 btnOnOff.Content = "ON";
                 btnOnOff.Background = Brushes.Green;
             }
